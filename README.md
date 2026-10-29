@@ -193,15 +193,3 @@ At the end of each run, the pipeline automatically writes the forward signal to 
 
 ---
 
-## 📚 Technical Documentation & References
-
-For in-depth technical analysis and architecture specifications:
-* [System Design & Architecture Document](DESIGN_AND_ARCHITECTURE_DOCUMENT.md)
-* [Technical Documentation & User Manual](TECHNICAL_DOCUMENTATION.md)
-
----
-
-## 📜 Academic Disclaimer
-
-This project is developed solely for academic research purposes under the B.Tech Computer Science & Engineering degree curriculum at IILM University. It is not intended as financial, trading, or investment advice.
-
