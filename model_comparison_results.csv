@@ -1,0 +1,11 @@
+feature_set,model,accuracy,precision,recall,f1,pct_predicted_UP,ci95_plusminus,vs_baseline,p_vs_baseline
+raw,DecisionTree,0.521,1.0,0.024,0.046,0.012,0.047,0.03,0.114
+raw,RandomForest,0.532,0.75,0.071,0.129,0.046,0.047,0.042,0.046
+raw,SVM,0.507,0.0,0.0,0.0,0.002,0.047,0.016,0.266
+raw,XGBoost,0.53,0.696,0.075,0.136,0.053,0.047,0.039,0.056
+raw,LSTM,0.491,0.491,1.0,0.658,1.0,0.047,0.0,0.519
+indicator,DecisionTree,0.512,0.533,0.038,0.07,0.035,0.047,0.021,0.207
+indicator,RandomForest,0.516,0.8,0.019,0.037,0.012,0.047,0.025,0.156
+indicator,SVM,0.509,0.5,0.042,0.078,0.042,0.047,0.019,0.235
+indicator,XGBoost,0.544,0.609,0.198,0.299,0.16,0.047,0.053,0.015
+indicator,LSTM,0.502,0.495,0.745,0.595,0.738,0.047,0.012,0.332

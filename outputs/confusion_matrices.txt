@@ -1,0 +1,39 @@
+raw_DecisionTree
+  actual DOWN: predicted DOWN=220, predicted UP=0
+  actual UP:   predicted DOWN=207, predicted UP=5
+
+raw_RandomForest
+  actual DOWN: predicted DOWN=215, predicted UP=5
+  actual UP:   predicted DOWN=197, predicted UP=15
+
+raw_SVM
+  actual DOWN: predicted DOWN=219, predicted UP=1
+  actual UP:   predicted DOWN=212, predicted UP=0
+
+raw_XGBoost
+  actual DOWN: predicted DOWN=213, predicted UP=7
+  actual UP:   predicted DOWN=196, predicted UP=16
+
+raw_LSTM
+  actual DOWN: predicted DOWN=0, predicted UP=220
+  actual UP:   predicted DOWN=0, predicted UP=212
+
+indicator_DecisionTree
+  actual DOWN: predicted DOWN=213, predicted UP=7
+  actual UP:   predicted DOWN=204, predicted UP=8
+
+indicator_RandomForest
+  actual DOWN: predicted DOWN=219, predicted UP=1
+  actual UP:   predicted DOWN=208, predicted UP=4
+
+indicator_SVM
+  actual DOWN: predicted DOWN=211, predicted UP=9
+  actual UP:   predicted DOWN=203, predicted UP=9
+
+indicator_XGBoost
+  actual DOWN: predicted DOWN=193, predicted UP=27
+  actual UP:   predicted DOWN=170, predicted UP=42
+
+indicator_LSTM
+  actual DOWN: predicted DOWN=59, predicted UP=161
+  actual UP:   predicted DOWN=54, predicted UP=158

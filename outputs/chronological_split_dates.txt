@@ -1,0 +1,5 @@
+Ticker: RELIANCE.NS
+Train: 2015 rows (2015-02-13 to 2023-04-13)
+Val:   433 rows (2023-04-17 to 2025-01-15)
+Test:  432 rows (2025-01-16 to 2026-10-16)
+Majority Baseline (Train majority=1): 0.491
