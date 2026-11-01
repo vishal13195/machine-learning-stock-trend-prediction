@@ -131,8 +131,6 @@ Major Project v1/
 ├── stock_trend_pipeline.py                 # Standalone Headless / CLI Script
 ├── requirements.txt                        # Project dependencies
 ├── README.md                               # Project documentation (this file)
-├── DESIGN_AND_ARCHITECTURE_DOCUMENT.md    # System Design & Architecture Document
-├── TECHNICAL_DOCUMENTATION.md              # Technical User Manual & API Guide
 ├── data_snapshot_yahoo.csv                 # Cached 11-year Reliance Market History
 └── outputs/                                # Auto-generated Production Artifacts
     ├── model_comparison_results.csv        # Tabular Test Metrics for all 10 models
